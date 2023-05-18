@@ -1,0 +1,12 @@
+gis_data_access:
+  url:
+  username: 
+  password: 
+output_workspace:
+  output_folder_path: 
+  inventory_output: inventory.xlsx
+  children_output: children.xlsx
+  children_details_output: children_details.xlsx
+items_types:
+  - Dashboard
+  - Web Mapping Application

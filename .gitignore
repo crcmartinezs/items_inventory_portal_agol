@@ -1,0 +1,6 @@
+*.xlsx
+outputs
+config.yaml
+.ipynb_checkpoints
+__pycache__
+*.ipynb
